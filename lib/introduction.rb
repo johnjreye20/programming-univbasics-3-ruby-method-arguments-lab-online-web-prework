@@ -4,7 +4,7 @@
 # in order to complete the rest of this course and be ready for the next course!
 
 
-=begin
+
 
 def introduction(name = 'Josh')
   puts "Hi, my name is #{name}."
@@ -17,7 +17,7 @@ end
   introduction_with_language("Dan", "Ember.js")
 
 
-=end
+
 
 
 def introduction_with_language_optional(name, language ='Ruby')
